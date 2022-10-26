@@ -1,0 +1,5 @@
+pl\tomaszbuga\pom\HomePage.class
+pl\tomaszbuga\framework\BaseTest.class
+pl\tomaszbuga\tests\FirstTest.class
+pl\tomaszbuga\framework\PageObject.class
+pl\tomaszbuga\utils\ByLocatorFinder.class
